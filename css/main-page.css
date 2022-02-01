@@ -1,0 +1,9 @@
+.banner-area {
+  display: block;
+}
+.banner-area img {
+  display: flex;
+  justify-content: right;
+  width: 100%;
+  height: 45vh;
+}
