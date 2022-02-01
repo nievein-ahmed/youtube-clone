@@ -1,0 +1,13 @@
+.side-bar {
+  height: 100vw;
+  width: 230px;
+  overflow-y: scroll;
+  background-color: white;
+}
+.side-bar-categories {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
