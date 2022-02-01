@@ -1,3 +1,6 @@
+@import url(./var.css);
+@import url(./header.css);
+
 * {
   margin: 0;
   padding: 0;
