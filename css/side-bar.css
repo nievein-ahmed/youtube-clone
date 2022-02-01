@@ -5,9 +5,16 @@
   background-color: white;
 }
 .side-bar-categories {
-  width: 100vw;
+  width: 100%;
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
   margin-top: 15px;
+}
+.side-bar-category span {
+  margin-left: 15px;
+}
+.side-bar-category {
+  display: flex;
+  align-items: center;
 }
