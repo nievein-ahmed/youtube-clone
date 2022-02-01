@@ -17,4 +17,9 @@
 .side-bar-category {
   display: flex;
   align-items: center;
+  padding: 12px 25px;
+}
+.side-bar-category:hover {
+  background: gray;
+  cursor: pointer;
 }
