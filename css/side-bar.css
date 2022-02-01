@@ -26,3 +26,8 @@
 .side-bar::-webkit-scrollbar {
   display: none;
 }
+hr {
+  height: 1px;
+  background-color: lightgrey;
+  border: none;
+}
