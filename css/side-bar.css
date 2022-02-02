@@ -3,6 +3,7 @@
   width: 230px;
   overflow-y: scroll;
   background-color: white;
+  grid-area: sidebar;
 }
 .side-bar-categories {
   width: 100%;

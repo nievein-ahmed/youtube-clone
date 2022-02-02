@@ -11,4 +11,10 @@
 }
 body {
   font-family: "Roboto", sans-serif;
+  display: grid;
+  grid-template-columns: 10vw 90vw;
+  grid-template-rows: 5vw 90vw;
+  grid-template-areas:
+    "header header"
+    "sidebar main";
 }
