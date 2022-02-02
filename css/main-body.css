@@ -14,7 +14,7 @@
   height: 40vh;
 }
 .title h4 {
-  font-size: 13px;
+  font-size: 30px;
   margin: 20px 0;
   color: #5a5a5a;
 }
@@ -26,7 +26,7 @@
   flex-wrap: wrap;
 }
 .title a img {
-  width: 25px;
+  width: 50px;
   border-radius: 50%;
   margin-right: 20px;
 }
