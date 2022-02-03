@@ -11,9 +11,9 @@
 }
 .banner img {
   width: 100%;
-  height: 50vh;
+  height: 30vh;
 }
-.title h4 {
+.title {
   font-size: 30px;
   margin: 20px 0;
   color: #5a5a5a;
@@ -26,7 +26,7 @@
   flex-wrap: wrap;
 }
 .title a img {
-  width: 80px;
+  width: 6vw;
   border-radius: 50%;
   margin-right: 20px;
 }
