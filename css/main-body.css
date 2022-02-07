@@ -13,7 +13,7 @@
   width: 100%;
   height: 35vh;
 }
-.title p {
+.title h6 {
   font-size: 30px;
   margin: 20px 0;
   color: black;
@@ -26,17 +26,19 @@
   width: fit-content;
   flex-wrap: wrap;
   text-decoration: none;
+  margin-left: 200px;
 }
 .title a img {
   width: 6vw;
   border-radius: 50%;
-  margin-right: 20px;
+  margin-left: 150px;
 }
+
 .menu ul {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  height: 70px;
+  height: 2vh;
   padding: 10px;
   border: none;
   font-weight: bold;
@@ -45,6 +47,7 @@
   list-style: none;
   margin-right: 10px;
   width: 50vw;
+  margin-left: 320px;
 }
 
 .videos {
@@ -88,7 +91,8 @@
   margin-bottom: 24px;
   color: black;
   margin: 20px 0;
-  margin-right: 10rem;
+  margin-left: 15px;
+  padding: 30px;
 }
 
 .author img {
@@ -98,4 +102,23 @@
 .menu ul a {
   text-decoration: none;
   color: gray;
+  left: 50px;
+}
+.btn button {
+  margin-left: 1400px;
+  padding: 10px;
+  margin-top: 30px;
+  font-size: 25px;
+  background-color: red;
+  margin-bottom: 20px;
+  margin-right: 300px;
+  color: aliceblue;
+  border: none;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.title span {
+  text-decoration: none;
+  color: rgb(96, 96, 96);
+  font-size: 14px;
 }
