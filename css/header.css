@@ -1,5 +1,5 @@
 .fas {
-  color: grey;
+  color: black;
 }
 .header {
   display: flex;
@@ -10,13 +10,14 @@
   grid-area: header;
 }
 .material-icons-outlined {
-  color: grey;
+  color: black;
   padding: 0px 7px;
   cursor: pointer;
 }
 .header-left {
   display: flex;
   align-items: center;
+  justify-content: space-evenly;
 }
 .header-left img {
   width: 100px;
@@ -27,11 +28,12 @@
   cursor: pointer;
 }
 .header-search form {
-  border: rgb(68, 71, 73);
+  border: whitesmoke;
   height: 36px;
   margin: 0;
   padding: 0;
   display: flex;
+  justify-content: space-evenly;
 }
 .header-search input {
   width: 500px;
@@ -39,6 +41,7 @@
   margin: 0;
   border-radius: 0;
   border: none;
+  font-size: 15px;
 }
 .header-search button {
   padding: 0;
@@ -46,4 +49,22 @@
   height: 100%;
   border: none;
   border-radius: 0;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+}
+.mic {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  font-size: 25px;
+  color: black;
+}
+.header-icons {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 15px;
+  font-size: 20px;
+  width: 15vw;
+  color: azure;
 }
