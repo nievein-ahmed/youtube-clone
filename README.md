@@ -9,14 +9,11 @@ HTML5
 CSS3
 ...
 Contact
-Mail: you@mail.com
-GitHub: yourGHName
+Mail: nevenahmed039@gmail.com
+GitHub: nievein-ahmed
 
 Used Tools
 icons
-Canva
-npm
 Google Fonts
 Visual Studio Code
-ColorZilla
-Made with heart by me
+Made with love by me
