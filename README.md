@@ -10,7 +10,7 @@ CSS3
 ...
 Contact
 Mail: nevenahmed039@gmail.com
-GitHub: nievein-ahmed
+GitHub: nievin-ahmed
 
 Used Tools
 icons
