@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
+    
     <div class="header">
       <div class="header-left">
         <i class="fas fa-bars"></i>
@@ -32,6 +33,10 @@
           <button><i class="fas fa-search"></i></button>
           <div class="mic">
             <i class="fas fa-microphone"></i>
+            <label class="switch">
+              <input type="checkbox" onchange="theme()" name="mood" id="light-dark">
+              <span class="slider round"></span>
+            </label>
           </div>
         </form>
       </div>
@@ -40,11 +45,13 @@
         <i class="material-icons-outlined"> apps </i>
         <i class="fas fa-bell"></i>
         <i class="fas fa-user-circle"></i>
+        
       </div>
     </div>
     <div class="side-bar">
       <div class="side-bar-categories">
         <div class="side-bar-category">
+         
           <i class="material-icons-outlined"> home </i>
           <span>home</span>
         </div>
@@ -243,5 +250,6 @@
         </div>
       </div>
     </div>
+    <script src="./index.js"></script>
   </body>
 </html>
